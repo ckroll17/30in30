@@ -26,3 +26,7 @@ This project was building out an image gallery using Flex in CSS and JavaScript.
 
 I am going to rewatch this one a few times. I liked it, but it felt like it was moving a little fast for me. I am hungry, so I'm keeping that in mind as I struggle to keep up with it. The type ahead can come in handy for so many things, I think this is a good thing to not only learn, but also really know.
 Sometimes, the afterthoughts and modifications mess with my mind, but it does all come toghether in the end. This is part of the reason I'm going to rewatch a few times.
+
+## Day 7
+
+Learning more about arrays and getting pumped to use more and more ES6. Kept the delete to a splice. Once I get stronger with ES6, I'll come back and change this to ES6 syntax. 
