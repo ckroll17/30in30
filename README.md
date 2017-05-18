@@ -12,3 +12,17 @@ I had a lot of fun with day two.
 
 ## Day 3
 Today, the project was working with CSS and Javascript together. This is fun stuff. Knowing the power of CSS and handing some of the control over to JavaScript is a powerful tool, and expands options, and opens creative doors.
+
+## Day 4
+Ok, so I've kinda dropped the ball on this one. I did start it and plan to finish it, but time as been moving fast, and I am falling behind, so I'm going to have to come back to this one.
+
+## Day 5
+This is one of my favorites so far because it is giving me ideas for my own site.
+This project was building out an image gallery using Flex in CSS and JavaScript. Feel free to check it out on github or on my codepen.
+[https://htmlpreview.github.io/?https://github.com/ckroll17/30in30/blob/master/flex-panel-gallery/index.html]: Github
+[http://codepen.io/ckroll17/pen/rmrrjG]: Codepen
+
+## Day 6
+
+I am going to rewatch this one a few times. I liked it, but it felt like it was moving a little fast for me. I am hungry, so I'm keeping that in mind as I struggle to keep up with it. The type ahead can come in handy for so many things, I think this is a good thing to not only learn, but also really know.
+Sometimes, the afterthoughts and modifications mess with my mind, but it does all come toghether in the end. This is part of the reason I'm going to rewatch a few times.
