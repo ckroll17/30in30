@@ -30,3 +30,7 @@ Sometimes, the afterthoughts and modifications mess with my mind, but it does al
 ## Day 7
 
 Learning more about arrays and getting pumped to use more and more ES6. Kept the delete to a splice. Once I get stronger with ES6, I'll come back and change this to ES6 syntax. 
+
+## Day 8
+
+Canvas is cool. You can make amazing things with it. I am on the fence with it for my personal arsenal. However, if I was given a reason to make it a top learning priority, I would take it. The options with canvas, webgl, d3, etc are endless. I have just set my current priorities on other parts of the JavaScript world. 
